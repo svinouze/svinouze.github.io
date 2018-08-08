@@ -15,4 +15,13 @@
     "sha256_cert_fingerprints":
     ["77:08:C7:4E:EB:3B:20:C9:29:31:8C:EA:48:0D:CC:E3:B1:81:31:00:47:69:6C:71:29:86:26:7C:26:FE:47:BE"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "sport.android.betclic.com.qa",
+    "sha256_cert_fingerprints":
+    ["77:08:C7:4E:EB:3B:20:C9:29:31:8C:EA:48:0D:CC:E3:B1:81:31:00:47:69:6C:71:29:86:26:7C:26:FE:47:BE"]
+  }
 }]
